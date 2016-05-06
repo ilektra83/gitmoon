@@ -4,7 +4,7 @@ var moons = [];
 init();
 moon( "blue" );
 moon ( "white");
-moon( "green" );
+moon( "red" );
 animate();
 
 function moon( color )
