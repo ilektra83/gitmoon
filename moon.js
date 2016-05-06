@@ -3,7 +3,7 @@ var moons = [];
 
 init();
 moon( "blue" );
-moon ( "white");
+moon ( "white"); // as snow
 moon( "red" );
 animate();
 
