@@ -1,1 +1,2 @@
 # The GitMoon project
+## Prerequisites
